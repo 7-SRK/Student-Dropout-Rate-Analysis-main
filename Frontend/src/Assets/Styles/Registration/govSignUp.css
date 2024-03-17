@@ -1,0 +1,150 @@
+/* .gov-form {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f4f4f4;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.gov-form p {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #007bff; 
+}
+
+.gov-title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  display: block;
+}
+
+.gov-input-field {
+  margin-bottom: 15px;
+  padding-right: 35px;
+}
+
+.gov-input-field input[type="text"],
+.gov-input-field input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  padding-right: 35px;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.gov-input {
+  position: relative;
+}
+
+.gov-password {
+  padding-right: 35px;
+}
+
+.gov-button {
+  text-align: center;
+}
+
+.gov-login-signup {
+  display: flex;
+  justify-content: center;
+}
+
+.gov-signup-link {
+  color: #007bff;
+}
+
+.gov-button a {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.gov-button a:hover {
+  background-color: #0056b3;
+} */
+
+.gov-form {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 8px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Text styling */
+.gov-form p {
+  font-size: 1.5rem;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Input field styling */
+.gov-input-field {
+  margin-bottom: 15px;
+}
+
+.gov-input {
+  position: relative;
+}
+
+.gov-input input {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #cccccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 1rem;
+}
+
+/* Password input styling */
+.gov-password {
+  margin-top: 5px;
+}
+
+/* Button styling */
+.gov-button {
+  text-align: center;
+}
+
+.gov-button a {
+  display: inline-block;
+  padding: 12px 20px;
+  background-color: #4caf50;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+}
+
+.gov-button a:hover {
+  background-color: #45a049;
+}
+
+/* Login/Signup link styling */
+.gov-login-signup {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.gov-text {
+  font-size: 0.9rem;
+}
+
+.gov-signup-link a {
+  color: #007bff;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.gov-signup-link a:hover {
+  color: #0056b3;
+}
+
